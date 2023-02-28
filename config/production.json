@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@cluster0.kfsvulg.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "devconnector1234001345@@",
+  "githubClientId": "b3a9a0262c2d8156c2d2",
+  "githubSecret": "8b89702fdf93fc634c971e28248c14c1a3cf4ea0"
+}
